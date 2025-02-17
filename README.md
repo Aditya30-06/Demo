@@ -1,5 +1,4 @@
 # Demo
 This is  my first Repo
 <br>
-Authoor : Aditya Birla
-
+Authoor : Aditya Birla (DTU)
